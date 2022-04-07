@@ -1,0 +1,16 @@
+PODS:
+  - TRNetworking (0.1.0)
+
+DEPENDENCIES:
+  - TRNetworking (from `./Lib/TRNetworking`)
+
+EXTERNAL SOURCES:
+  TRNetworking:
+    :path: "./Lib/TRNetworking"
+
+SPEC CHECKSUMS:
+  TRNetworking: 471879b2e70916451e4e18323ef61fd386afd179
+
+PODFILE CHECKSUM: e0edf28e34352df393b819e42db33379252ff708
+
+COCOAPODS: 1.11.3

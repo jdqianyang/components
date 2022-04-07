@@ -7,6 +7,5 @@ target 'MainProject' do
 
   # Pods for MainProject
 
- pod 'ModuleB'
- pod 'ModuleACategory'
+  pod 'TRNetworking', :path => './Lib/TRNetworking'
 end

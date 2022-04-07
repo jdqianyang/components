@@ -1,0 +1,6 @@
+framework module TRNetworking {
+  umbrella header "TRNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}
